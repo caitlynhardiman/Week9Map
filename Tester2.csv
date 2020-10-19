@@ -1,19 +1,19 @@
-﻿Locations,Total,,,,,,,,,,,,,,,,,,,,,,,,,
-     Sydney,"415,453 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Blue Mountains,"49,510 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Capital Country,"52,372 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Central Coast,"77,662 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Central NSW,"56,535 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Hunter,"127,344 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     New England North West,"39,607 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     North Coast NSW,"132,721 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Outback NSW,268 ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Riverina,"28,916 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Snowy Mountains,"9,953 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     South Coast,"126,666 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     The Murray,"24,194 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region NSW - Offshore and Migratory NSW,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total NSW,"1,147,544 ",,,,,,,,,,,,,,,,,,,,,,,,,
+﻿Locations,Total
+     Sydney,415453
+     Blue Mountains,49510
+     Capital Country,52372
+     Central Coast,77662
+     Central NSW,56535
+     Hunter,127344
+     New England North West,39607
+     North Coast NSW,132721
+     Outback NSW,268
+     Riverina,28916
+     Snowy Mountains,9953
+     South Coast,126666
+     The Murray,24194
+     Unknown Region NSW - Offshore and Migratory NSW,0
+     Total NSW,1147544
      Melbourne,"326,208 ",,,,,,,,,,,,,,,,,,,,,,,,,
      Ballarat,"36,868 ",,,,,,,,,,,,,,,,,,,,,,,,,
      Bendigo Loddon,"46,985 ",,,,,,,,,,,,,,,,,,,,,,,,,
