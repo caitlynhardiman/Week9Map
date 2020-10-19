@@ -27,14 +27,14 @@ Lakes,11583
 Macedon,22046
 Mallee,11841
 Melbourne East,59313
-Murray East,-
+Murray East,0
 Peninsula,86955
 Phillip Island,26411
 Spa Country,12776
 Upper Yarra,12587
 Great Ocean Road,55935
 Western Grampians,9233
-Wimmera,-
+Wimmera,0
 Unknown Region VIC - Offshore and Migratory VIC,-
 Total VIC,931032
 Brisbane,272987
@@ -63,7 +63,7 @@ Limestone Coast,13822
 Riverland,7821
 Yorke Peninsula,13466
 Flinders Ranges and Outback,11697
-Kangaroo Island,-
+Kangaroo Island,0
 Unknown Region SA - Offshore and Migratory SA,-
 Total SA,256590
 Destination Perth,228446
@@ -77,19 +77,19 @@ Hobart and the South,44494
 East Coast,5491
 Launceston and the North,36692
 North West,22316 
-West Coast,-
+West Coast,0
 Unknown Region TAS - Offshore and Migratory TAS,- 
 Total TAS,110613 
 Darwin,9812 
-Barkly,-
-Alice Springs,-
+Barkly,0
+Alice Springs,0
 Litchfield Kakadu Arnhem,6499
 Katherine Daly,2817
-Lasseter,-
+Lasseter,0
 MacDonnell,213
 Unknown Region NT - Offshore and Migratory NT,-
 Total NT,24362
 ACT,39759
-Canberra,-
+Canberra,0
 Other,-
 Total,3597510
