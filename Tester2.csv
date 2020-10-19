@@ -14,81 +14,81 @@
      The Murray,24194
      Unknown Region NSW - Offshore and Migratory NSW,0
      Total NSW,1147544
-     Melbourne,"326,208 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Ballarat,"36,868 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Bendigo Loddon,"46,985 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Central Highlands,"2,046 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Central Murray,"17,466 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Geelong and the Bellarine,"67,056 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Gippsland,"52,556 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Goulburn,"29,370 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     High Country,"30,276 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Lakes,"11,583 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Macedon,"22,046 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Mallee,"11,841 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Melbourne East,"59,313 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Murray East,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Peninsula,"86,955 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Phillip Island,"26,411 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Spa Country,"12,776 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Upper Yarra,"12,587 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Great Ocean Road,"55,935 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Western Grampians,"9,233 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Wimmera,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region VIC - Offshore and Migratory VIC,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total VIC,"931,032 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Brisbane,"272,987 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Bundaberg,"13,721 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Southern Queensland Country,"64,576 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Fraser Coast,"10,652 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Gold Coast,"126,664 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Mackay,"13,001 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Townsville,"27,573 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Outback Queensland,"9,677 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Sunshine Coast,"116,587 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Tropical North Queensland,"44,453 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Whitsundays,404 ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Capricorn,"26,991 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Gladstone,968 ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region QLD - Offshore and Migratory QLD,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total QLD,"753,474 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Adelaide,"86,631 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Adelaide Hills,"20,460 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Barossa,"16,038 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Clare Valley,"5,048 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Eyre Peninsula,"8,398 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Fleurieu Peninsula,"53,559 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Limestone Coast,"13,822 ",,,,,,,,,,,,,,,,,,,,,,,,,
-"     Murray River, Lakes and Coorong","17,133 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Riverland,"7,821 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Yorke Peninsula,"13,466 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Flinders Ranges and Outback,"11,697 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Kangaroo Island,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region SA - Offshore and Migratory SA,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total SA,"256,590 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Destination Perth,"228,446 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Australia's Golden Outback,"17,326 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Australia's North West,"7,002 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Australia's South West,"62,044 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Australia's Coral Coast,"17,691 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region WA - Offshore and Migratory WA,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total WA,"334,082 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Hobart and the South,"44,494 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     East Coast,"5,491 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Launceston and the North,"36,692 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     North West,"22,316 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     West Coast,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region TAS - Offshore and Migratory TAS,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total TAS,"110,613 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Darwin,"9,812 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Barkly,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Alice Springs,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Litchfield Kakadu Arnhem,"6,499 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Katherine Daly,"2,817 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Lasseter,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     MacDonnell,213 ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Unknown Region NT - Offshore and Migratory NT,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total NT,"24,362 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     ACT,"39,759 ",,,,,,,,,,,,,,,,,,,,,,,,,
-     Other,- ,,,,,,,,,,,,,,,,,,,,,,,,,
-     Total,"3,597,510",,,,,,,,,,,,,,,,,,,,,,,,,
+     Melbourne,326208
+     Ballarat,36868
+     Bendigo Loddon,46985
+     Central Highlands,2046
+     Central Murray,17466
+     Geelong and the Bellarine,67056
+     Gippsland,52556
+     Goulburn,29370
+     High Country,30276
+     Lakes,11583
+     Macedon,22046
+     Mallee,11841
+     Melbourne East,59313
+     Murray East,0
+     Peninsula,86955
+     Phillip Island,26411
+     Spa Country,12776
+     Upper Yarra,12587
+     Great Ocean Road,55935
+     Western Grampians,9233
+     Wimmera,0
+     Unknown Region VIC - Offshore and Migratory VIC,0
+     Total VIC,931032
+     Brisbane,272987
+     Bundaberg,13721
+     Southern Queensland Country,64576
+     Fraser Coast,10652
+     Gold Coast,126664
+     Mackay,13001
+     Townsville,27573
+     Outback Queensland,9677
+     Sunshine Coast,116587
+     Tropical North Queensland,44453
+     Whitsundays,404
+     Capricorn,26991
+     Gladstone,968
+     Unknown Region QLD - Offshore and Migratory QLD,0
+     Total QLD,753474
+     Adelaide,86631
+     Adelaide Hills,20460
+     Barossa,16038
+     Clare Valley,5048
+     Eyre Peninsula,8398
+     Fleurieu Peninsula,53559
+     Limestone Coast,13822
+     Murray River, Lakes and Coorong,17133
+     Riverland,7821
+     Yorke Peninsula,13466
+     Flinders Ranges and Outback,11697
+     Kangaroo Island,0
+     Unknown Region SA - Offshore and Migratory SA,0
+     Total SA,256590
+     Destination Perth,228446
+     Australia's Golden Outback,17326
+     Australia's North West,7002
+     Australia's South West,62044
+     Australia's Coral Coast,17691
+     Unknown Region WA - Offshore and Migratory WA,0
+     Total WA,334082
+     Hobart and the South,44494
+     East Coast,5491
+     Launceston and the North,36692
+     North West,22316
+     West Coast,0
+     Unknown Region TAS - Offshore and Migratory TAS,0
+     Total TAS,110613
+     Darwin,9812
+     Barkly,0
+     Alice Springs,0
+     Litchfield Kakadu Arnhem,6499
+     Katherine Daly,2817
+     Lasseter,0
+     MacDonnell,213
+     Unknown Region NT - Offshore and Migratory NT,0
+     Total NT,24362
+     ACT,39759
+     Other,0
+     Total,3597510
