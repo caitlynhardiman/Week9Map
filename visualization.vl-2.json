@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Amount of Residential Daytrips taken June 1998 - June 2020",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/caitlynhardiman/Week9map/main/Tourism_Regions_2020.json",
+    "format": {"type": "topojson", "feature": "Tourism_Regions_2020"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.TR_NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/caitlynhardiman/Week9map/main/Tester2.csv"
+        },
+        "key": "Locations",
+        "fields": ["Total"]
+      }
+    },
+    {"calculate": "datum.Total + 1", "as": "Total Number"}
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Total Number",
+      "type": "quantitative",
+      "scale": {"type": "log"}
+    },
+    "tooltip": [
+      {
+        "field": "properties.TR_NAME",
+        "type": "nominal",
+        "title": "Tourism Region"
+      },
+      {"field": "Total", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
